@@ -1,2 +1,2 @@
 # neo4j_rest
-A rest server with mongodb database queries
+A rest server with neo4j database queries
